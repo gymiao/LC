@@ -1,1 +1,1 @@
-# LC
+Resolve problems using Java.
